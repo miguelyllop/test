@@ -6,6 +6,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6vPgOgxarCHaAHeTxaHSWI%2FMonsterFit-Asia-web%3Fnode-id%3D2%253A3430" allowfullscreen></iframe>
 
+
+<html>
+  <body>  
+     <div class="row" style="padding: 30px">
+                        <div class="left-col">
+                            <p class="motoya" style="font-size: 1vw">findings;</p>
+                        </div>
+                        <div class="right-col">
+                            In order to improve the current shared channel acceptance flow, I had to understand the dead-ends that users reach when trying to accept an invite. By outlining the process, it was a lot easier to grasp the pain points of the current system in place.
+                        </div>
+                        <div class="spacing">SPACING</div>
+                    </div>
+                    <div class="row" style="padding: 30px">
+                            <p class="sf-bold">[FIG 08]
+                                <br>ERROR STATES</p>
+                        <img src="https://i.imgur.com/OSLr5en.png">
+                        <div class="spacing">SPACING</div>
+                    </div>
+     </body>
+</html>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
