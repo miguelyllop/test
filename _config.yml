@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 
-title: [hello]
-description: hello theme
+title: hello
+logo: /assets/img/logo.png
+description: hello bitches
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
