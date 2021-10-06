@@ -1,5 +1,6 @@
 <html>
   <body> 
+    
     <div class="wrapper">
 
 ## Welcome to GitHub Pages
@@ -23,7 +24,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
                             We wanted to revise this layout by making it more navigation-friendly, as scrolling holds the user back from easily accessing all of the other sections in the case study pages.
                           </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6vPgOgxarCHaAHeTxaHSWI%2FMonsterFit-Asia-web%3Fnode-id%3D2%253A3430" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6vPgOgxarCHaAHeTxaHSWI%2FMonsterFit-Asia-web%3Fnode-id%3D2%253A3430" allowfullscreen></iframe>
 
 
  
