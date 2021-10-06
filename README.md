@@ -7,9 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Prototype A's case study page required user interaction through continued vertical scrolling. I wanted to emulate a timeline effect, so that the user could follow the same progress as a designer would during the logo design process. It also told a more cohesive story and replicates the same informational format that is presented in logo presentation decks.
 
 We wanted to revise this layout by making it more navigation-friendly, as scrolling holds the user back from easily accessing all of the other sections in the case study pages.
-                         
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6vPgOgxarCHaAHeTxaHSWI%2FMonsterFit-Asia-web%3Fnode-id%3D2%253A3430" allowfullscreen></iframe>
+                        
 
 
  
