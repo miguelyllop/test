@@ -4,31 +4,17 @@ You can use the [editor on GitHub](https://github.com/miguelyllop/test/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Prototype A's case study page required user interaction through continued vertical scrolling. I wanted to emulate a timeline effect, so that the user could follow the same progress as a designer would during the logo design process. It also told a more cohesive story and replicates the same informational format that is presented in logo presentation decks.
 
-                            Prototype A's case study page required user interaction through continued vertical scrolling. I wanted to emulate a timeline effect, so that the user could follow the same progress as a designer would during the logo design process. It also told a more cohesive story and replicates the same informational format that is presented in logo presentation decks.
-                          
-                            We wanted to revise this layout by making it more navigation-friendly, as scrolling holds the user back from easily accessing all of the other sections in the case study pages.
+We wanted to revise this layout by making it more navigation-friendly, as scrolling holds the user back from easily accessing all of the other sections in the case study pages.
                          
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="600" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6vPgOgxarCHaAHeTxaHSWI%2FMonsterFit-Asia-web%3Fnode-id%3D2%253A3430" allowfullscreen></iframe>
 
 
  
-     <div class="row" style="padding: 30px">
-                        <div class="left-col">
-                            <p class="motoya" style="font-size: 1vw">findings;</p>
-                        </div>
-                        <div class="right-col">
-                            In order to improve the current shared channel acceptance flow, I had to understand the dead-ends that users reach when trying to accept an invite. By outlining the process, it was a lot easier to grasp the pain points of the current system in place.
-                        </div>
-                        <div class="spacing">SPACING</div>
-                    </div>
-                    <div class="row" style="padding: 30px">
-                            <p class="sf-bold">[FIG 08]
-                                <br>ERROR STATES</p>
-                        <img src="https://i.imgur.com/OSLr5en.png">
-                        <div class="spacing">SPACING</div>
-                    </div>
+ In order to improve the current shared channel acceptance flow, I had to understand the dead-ends that users reach when trying to accept an invite. By outlining the process, it was a lot easier to grasp the pain points of the current system in place.
+                   
    
 
 
