@@ -1,3 +1,6 @@
+<html>
+  <body> 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/miguelyllop/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -22,8 +25,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6vPgOgxarCHaAHeTxaHSWI%2FMonsterFit-Asia-web%3Fnode-id%3D2%253A3430" allowfullscreen></iframe>
 
 
-<html>
-  <body>  
+ 
      <div class="row" style="padding: 30px">
                         <div class="left-col">
                             <p class="motoya" style="font-size: 1vw">findings;</p>
@@ -39,8 +41,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
                         <img src="https://i.imgur.com/OSLr5en.png">
                         <div class="spacing">SPACING</div>
                     </div>
-     </body>
-</html>
+   
 
 
 
@@ -75,3 +76,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+    </body>
+</html>
